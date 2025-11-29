@@ -4,3 +4,17 @@ __pycache__/
 *.pyo
 *.pyd
 data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Data files
+data/raw/
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
